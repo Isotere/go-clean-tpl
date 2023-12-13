@@ -1,0 +1,8 @@
+
+vendor
+
+tools
+
+.env
+
+logs/*.log
